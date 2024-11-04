@@ -1,0 +1,1 @@
+cd api-gateway/ && yarn && cd .. && cd expenses-service/ && yarn && cd .. && cd users-service/ && yarn
